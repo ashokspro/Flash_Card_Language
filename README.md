@@ -1,10 +1,10 @@
-##Flashy - Language Learning Flashcard Application (Python)
+Flashy - Language Learning Flashcard Application (Python)
 
-##Overview
+Overview
 
 Flashy is a simple yet effective flashcard application implemented in Python using Tkinter. It helps users learn a new language by presenting French words and their English translations in an interactive manner. This README file provides an overview of the application's features, how to use it, and how to set it up on your local machine.
 
-##Features
+Features
 
 - Random selection of French words and their English translations for practice
 - Interactive flashcards with the ability to flip and reveal translations
@@ -12,7 +12,7 @@ Flashy is a simple yet effective flashcard application implemented in Python usi
 - Data persistence to track progress and remove known words from future practice sessions
 - User-friendly interface with intuitive buttons for ease of use
 
-##Prerequisites
+*Prerequisites*
 
 Before you can run Flashy, ensure you have the following prerequisites installed on your machine:
 
