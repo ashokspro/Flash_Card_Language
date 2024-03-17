@@ -24,7 +24,7 @@ Follow these steps to set up and run Flashy:
 
 1. Clone the Repository: Start by cloning this repository to your local machine using Git.
 
-   git clone https://github.com/your-username/flashy.git
+   git clone https://github.com/ashokspro/Flash_Card_Language.git
 
 2. Navigate to the Project Directory: Open a terminal or command prompt, navigate to the project directory.
 
